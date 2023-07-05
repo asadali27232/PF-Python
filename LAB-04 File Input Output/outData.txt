@@ -1,0 +1,9 @@
+
+Rectangle: 
+Width = 10.20, Hieght = 5.35, Area = 54.57
+
+Circle:
+Radius = 15.6, Area = 764.537988177612
+
+Name: Randy Gill, Age: 31
+Current Balanec: 18500, Balance at the end of Month: 83250.0
