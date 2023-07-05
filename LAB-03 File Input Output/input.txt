@@ -1,0 +1,3 @@
+Asad Ali 10000 5
+Husnain Ali 25000 6
+Ghaffar Ahmad 800000 10
