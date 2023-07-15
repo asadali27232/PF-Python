@@ -37,14 +37,3 @@ avg2 = average(2, 6, 6)
 avg3 = average(2, 7, 1)
 
 print(avg1, avg2, avg3)
-
-
-def larger_char(a, b):
-    if a > b:
-        print(a)
-    else:
-        print(b)
-
-
-larger_char("c", "r")
-larger_char("c", "A")
