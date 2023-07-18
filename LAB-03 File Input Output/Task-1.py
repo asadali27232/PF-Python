@@ -1,4 +1,4 @@
-input_file = open("input.txt", "r")
+input_file = open("C:\Users\LENOVO\Repos\PF-Python\LAB-03 File Input Output\input.txt", "r")
 input_file_content = input_file.read()
 input_lines = input_file_content.split("\n")
 

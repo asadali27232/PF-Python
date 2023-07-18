@@ -1,6 +1,6 @@
 import math
 
-input_file = open("inData.txt", "r")
+input_file = open("C:\Users\LENOVO\Repos\PF-Python\LAB-04 File Input Output\inData.txt", "r")
 output_file = open("outData.txt", "w")
 
 width, hieght = tuple(input_file.readline().strip().split())
