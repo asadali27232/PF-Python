@@ -1,6 +1,10 @@
 def counts(arr, key):
-    return arr.count(key)
+    count = arr.count(key)
+    if count == 0:
+        print(f"Element {key} is not present in {arr}.")
+    else:
+        print(f"Element {key} is present {count} times in {arr}")
 
 
 arr = [1, 1, 1, 2, 3, 4, 5]
-print(counts(arr, 1))
+counts(arr, 1)
